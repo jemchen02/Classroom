@@ -1,0 +1,52 @@
+body {
+	background-color:#d9ffe3
+;
+}
+.welcome {
+	font-size : 30px;
+	margin-left: 600px;
+}
+button {
+	border-radius: 10px;
+	background-color: blue;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	font-size: 25px;
+}
+.formH {
+	font-size: 35px;
+}
+.form {
+	font-size: 25px;
+}
+.logReg {
+	width: 30%;
+}
+table, td, th {
+	border: 2px solid;
+	border-collapse: collapse;
+	border-color: green;
+}
+.left{
+	width: 300px;
+	font-size: 25px;
+}
+.right{
+	width: 300px;
+	font-size: 25px;
+}
+td {
+	font-size: 20px;
+	text-align: center;
+}
+p {
+	font-size: 35px;
+}
+.post {
+	font-size: 25px;
+	width: 700px;
+}
+.name {
+	font-size: 20px;
+	width: 300px;
+}
